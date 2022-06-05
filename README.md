@@ -1,5 +1,14 @@
 # Hi 👋, I am Mohamed Medhat
-### I am a Computer science and engineering student @ The German University in Cairo
+<!-- ### I am a Computer science and engineering student @ The German University in Cairo -->
+
+- 🔭 I’m currently studying Computer Science and Engineering at the German University in Cairo
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mmedhat1910/) | [Email](mailto:mmedhat1910@gmail.com) | [Twitter](https://twitter.com/mmedhat1910) | [Youtube](https://youtube.com/c/MohamedMedhat7)
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 > this readme is currently under construction 🚧
 
