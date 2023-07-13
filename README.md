@@ -61,7 +61,7 @@
 <!-- > this readme is currently under construction 🚧 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmedhat1910&count_private=true&show_icons=true&hide=issues)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmedhat1910&count_private=true&show_icons=true&hide=issues)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmedhat1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
