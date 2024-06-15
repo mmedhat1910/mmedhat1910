@@ -1,7 +1,7 @@
 # Hi 👋, I am Mohamed Medhat
 <!-- ### I am a Computer science and engineering student @ The German University in Cairo -->
 
-- 🔭 I’m currently studying Computer Science and Engineering at the [German University in Cairo](http://guc.edu.eg)
+- 🔭 I’m a Graduate in Computer Science and Engineering from the [German University in Cairo](http://guc.edu.eg)
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
